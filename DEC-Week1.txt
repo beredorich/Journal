@@ -46,6 +46,35 @@ New Year Goals and Timelines
 
 idea: write script to parse text file to edit ie: %marked will strikethrough, &marked will carry over
 
+------------------------------------------------------------------
+
+09 DEC 22
+
+#First Alarm
+#Make Bed
+#Pushups
+#Rollouts
+#Skin Routine
+
+#Work habits
+New Year Goals and Timelines
+#Career: Engineer and LT
+#Finance: stock and new tracker
+#Health: weight and stength
+#mental
+#Social
+
+#Weekly Tasklist
+#haircut
+#clean room
+
+#Transfer notes to VScode
+#Create Beta 
+#Review RPS Packager tool
+#database
+
+idea: write script to parse text file to edit ie: %marked will strikethrough, &marked will carry over
+
 
 
 
