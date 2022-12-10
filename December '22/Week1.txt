@@ -1,0 +1,80 @@
+07 DEC 22
+
+Good:
+-bench PR: 3x6 @255lbs
+-coded today
+-good mental night
+
+Bad
+-cheat meal over
+-woke up late
+-focus and no habits
+
+Plan 
+-transfer notes to VScode
+-focus on journaling going into weekend
+-practice improving self, you are getting lazy
+
+-------------------------------------------------------
+
+08 DEC 22
+
+[]First Alarm
+[]Cardio
+[]Make Bed
+[]Pushups
+[]Rollouts
+[]Skin Routine
+
+[]Work habits
+New Year Goals and Timelines
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+
+[]Weekly Tasklist
+[]haircut
+[]clean room
+
+[]Transfer notes to VScode
+[]Create Beta 
+[]Review RPS Packager tool
+[]database
+
+
+idea: write script to parse text file to edit ie: %marked will strikethrough, &marked will carry over
+
+------------------------------------------------------------------
+QOTD: Progress is almonst never linear. Ups and downs and bursts.
+09 DEC 22
+
+[]First Alarm\                                                                                                                       
+[x]Make Bed
+[x]Pushups
+[x]Rollouts
+[x]Skin Routine
+
+[x]Work habits: QOTD, wordle, typing, emails, brew []
+
+New Year Goals and Timelines
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+
+[]Weekly Tasklist
+[]haircut
+[]clean room
+
+[]Transfer notes to VScode
+[]Create Beta 
+[]Review RPS Packager tool
+[]database
+
+idea: write script to parse text file to edit ie: %marked will strikethrough, &marked will carry over
+
+
+
