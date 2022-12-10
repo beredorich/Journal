@@ -6,22 +6,22 @@ $months = @('January', 'February', 'March', 'April', 'May', 'June', 'July', 'Aug
 $monthNum = (Get-Date).Month
 $currentMonth = $months[$monthNum-1]
 $folderPath = Get-ChildItem -Path "C:\Users\richard.s.beredo\Journal" -Recurse | Where-Object {$_.Name -match $currentMonth} | ForEach-Object {$_.FullName}
-
-$files = Get-ChildItem -Path $folderPath -Recurse
+write-host $folderPath
+$files = Get-ChildItem -Path $folderPath -Recurse;
 
 $i=0
 foreach ($file in $files) {
-    $i++
-    Write-Host "$i": $file.Basename
+    $i++;
+    Write-Host "$i": $file.Basename;
 }
 
-$chosen = 100
+$chosen = 69;
 while ($chosen -ge $i+1){
     
     $chosen = Read-Host "Choose Week"
     if ($chosen -ge $i+1) {
         Write-Host "Invalid Input"
     }
-    
-} 
-    
+}
+$fileChosenPath = $folderPath + "\" + $files[$chosen-1]
+Get-Content $fileChosenPath.Split('#') | Out-String
