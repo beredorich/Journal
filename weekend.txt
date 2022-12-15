@@ -1,31 +1,32 @@
 Morning Routine
-[]pushups
-[]rollouts
-[]make bed
-[]skin routine
-[]shave
+[x]pushups
+[x]rollouts
+[x]make bed
+[x]skin routine
+[x]shave
 
 Breakfast
-[]grab coffee?
-[]protein shake?
-[]review day
+[x]grab coffee?
+[x]review day
 
 Bjs
-[]salad
-[]coke
-[]yogurt
+[x]salad
+[x]coke
+[x]yogurt
 
 Kitchen (Saturday)
-[]empty dishwasher
-[]dishes
-[]sweep
+[x]empty dishwasher
+[x]dishes
+[x]sweep
 []mop
-[]trash
+[x]trash
+[x]wipe counters
 
 Errands
-[]pickup Car
+[x]pickup Car
 []deposit money
 []cash casino bets
+[x]fanduel bets
 
 Desk (Sunday)
 []wipe table
@@ -33,30 +34,77 @@ Desk (Sunday)
 []clean drawer
 
 Bathroom
-[]toilet
+[x]toilet
 []sweep and mop
 []surfaces
 []drawer
 
 Room
-[]laundry
-[]hang clothes
-[]change bedding
-
-H[]Mart
-[]rice
-[]pork belly?
-[]green onion
-[]cilantro
-[]teoboki
-[]ube
+[x]laundry
+[x]hang clothes
+[x]change bedding
 
 Harris Teeter
-[]cutips
+[x]cutips
+[x]eggs
+[x]pimple medicine
 
-
-Cooking Cravings
-[]pork belly
-[]hopia
-[]egg tart
-[]filipino Breakfast
+COMPLETED TASKS: 24
+TASKS TO COMPLETE: 9
+[]mop
+[]deposit money
+[]cash casino bets
+[]wipe table
+[]organize cables
+[]clean drawer
+[]sweep and mop
+[]surfaces
+[]drawer
+COMPLETED TASKS: 5
+TASKS TO COMPLETE: 46
+[]First Alarm
+[]Cardio
+[]Make Bed
+[]Pushups
+[]Rollouts
+[]Skin Routine
+[]Work habits
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+[]Weekly Tasklist
+[]haircut
+[]clean room
+[]Transfer notes to VScode
+[]Create Beta 
+[]Review RPS Packager tool
+[]database
+[]First Alarm\                                                                                                                       
+[x]Work habits: QOTD, wordle, typing, emails, brew []
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+[]Weekly Tasklist
+[]haircut
+[]clean room
+[]Transfer notes to VScode
+[]Create Beta 
+[]Review RPS Packager tool
+[]database
+[]Make Bed
+[]Pushups
+[]Rollouts
+[]Skin Routine
+[]Work habits: QOTD, wordle, typing, emails, brew []
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+[]Weekly Tasklist
+[]haircut
+[]clean room

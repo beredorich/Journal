@@ -79,3 +79,69 @@ idea: write script to parse text file to edit ie: %marked will strikethrough, &m
 
 
 ############################################################
+
+10 DEC 2022
+[]Make Bed
+[]Pushups
+[]Rollouts
+[]Skin Routine
+
+[]Work habits: QOTD, wordle, typing, emails, brew []
+
+New Year Goals and Timelines
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+
+[]Weekly Tasklist
+[]haircut
+[]clean roomCOMPLETED TASKS: 5
+TASKS TO COMPLETE: 46
+[]First Alarm
+[]Cardio
+[]Make Bed
+[]Pushups
+[]Rollouts
+[]Skin Routine
+[]Work habits
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+[]Weekly Tasklist
+[]haircut
+[]clean room
+[]Transfer notes to VScode
+[]Create Beta 
+[]Review RPS Packager tool
+[]database
+[]First Alarm\                                                                                                                       
+[x]Work habits: QOTD, wordle, typing, emails, brew []
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+[]Weekly Tasklist
+[]haircut
+[]clean room
+[]Transfer notes to VScode
+[]Create Beta 
+[]Review RPS Packager tool
+[]database
+[]Make Bed
+[]Pushups
+[]Rollouts
+[]Skin Routine
+[]Work habits: QOTD, wordle, typing, emails, brew []
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+[]Weekly Tasklist
+[]haircut
+[]clean room
