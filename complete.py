@@ -2,7 +2,6 @@ from datetime import date, timedelta
 import os
 import sys
 
-import numpy
 today = date.today()
 
 month = today.strftime("%B")
@@ -13,7 +12,7 @@ path = os.getcwd()
 for root, dirs, files in os.walk(path):
     for dir in dirs:
         if dir.__contains__(month):
-            monthFolder = (path + '\\' +  dir)
+            monthFolder = (path + '//' +  dir)
 
 while True:
     try: 
@@ -38,7 +37,7 @@ while True:
 
 
 fileChosen = (os.listdir(monthFolder))[choice-1]
-filePath = monthFolder + "\\" + fileChosen
+filePath = monthFolder + "//" + fileChosen
 
 with open(filePath) as file:
     lines = file.readlines()

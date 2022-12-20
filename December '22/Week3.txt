@@ -11,33 +11,32 @@
 []gifts
     [x]Raymond: Wireless Carplay
     []Ed Reed: Games?   
-    []Auntie Grace: 
-    []Mom: Fridge
+    [x]Auntie Grace: 
+    [x]Mom: Fridge
     []Dad: Jersey
     []Auntie Nora: Garlic
     []Lola: Ube Jam
     []Ryland: Cash, Shoes, Game
-[]Add Payments: 
-    []Chase
-    []Verizon
-    []FanDuel
-    []APT
-    []AMEX
-    []Gas
-    []USAA
-    []Direct Deposit: Army
-    []Direct Deposit: CTR 
+[x]Add Payments: 
+    [x]Chase
+    [x]Verizon
+    [x]APT
+    [x]AMEX
+    [x]Gas
+    [x]USAA
+    [x]Direct Deposit: Army
+    [x]Direct Deposit: CTR 
 
-[]Beta Confirmation
+[x]Beta Confirmation
 []Beta Upload
 
-[]Book Leave/Plan
+[x]Book Leave/Plan
 []Book Hotel/Plan
 []Market Plan
 []AMEX Benefits
 
-[]Dishes
-[]Dinner: Sinigang
+[x]Dishes
+[x]Dinner: Sinigang
 
 Goals
 []Career: Engineer and LT
@@ -45,3 +44,54 @@ Goals
 []Health: weight and stength
 []mental
 []Social
+
+Good
+-Diet 
+-workout
+-coding and journaling
+
+Bad
+-time management: work and home
+-no goals and purpose
+-mental from Phone
+
+Plan
+-journal and utilize timer
+-stay away from Phone
+-continue good habits
+
+COMPLETED TASKS: 21
+TASKS TO COMPLETE: 16
+-----------------------------------------
+21 DEC 22
+
+[]First Alarm
+[]Pushups
+[]Rollouts
+[]Make Bed
+[]Skin Routine
+[]No Phone
+
+[]gifts
+    []Ed Reed: Games?   
+    []Dad: Jersey
+    []Auntie Nora: Garlic
+    []Lola: Ube Jam
+    []Ryland: Cash, Shoes, Game
+
+[]Work habits
+[]Learn Backend
+[]Beta Packages
+
+[]Book Hotel/Plan
+[]Market Plan
+[]AMEX Benefits
+
+Goals
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+
+[]Plan Army Opertion February
