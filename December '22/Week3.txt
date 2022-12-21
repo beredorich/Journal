@@ -65,11 +65,11 @@ TASKS TO COMPLETE: 16
 -----------------------------------------
 21 DEC 22
 
-[]First Alarm
-[]Pushups
-[]Rollouts
-[]Make Bed
-[]Skin Routine
+[x]First Alarm
+[x]Pushups
+[x]Rollouts
+[x]Make Bed
+[x]Skin Routine
 []No Phone
 
 []gifts
@@ -79,9 +79,9 @@ TASKS TO COMPLETE: 16
     []Lola: Ube Jam
     []Ryland: Cash, Shoes, Game
 
-[]Work habits
+[x]Work habits
 []Learn Backend
-[]Beta Packages
+[x]Beta Packages
 
 []Book Hotel/Plan
 []Market Plan
@@ -95,3 +95,58 @@ Goals
 []Social
 
 []Plan Army Opertion February
+
+COMPLETED TASKS: 7
+TASKS TO COMPLETE: 17
+
+Good
+-Workout PR
+-Worked on mental
+-journal and habits
+
+Bad
+-Diet
+-too much video games and distractions
+-apartment not clean
+
+Plan
+-clean mind, less Phone
+-do goals actually
+-finish tasklist or at least plan
+
+-----------------------------------------
+21 DEC 22
+
+[]First Alarm
+[]Pushups
+[]Rollouts
+[]Make Bed
+[]Skin Routine
+[]No Phone
+
+Goals
+[]Career: Engineer and LT
+[]Finance: stock and new tracker
+[]Health: weight and stength
+[]mental
+[]Social
+
+[]gifts
+    []Ed Reed: Games?   
+    []Dad: Jersey
+    []Auntie Nora: Garlic
+    []Lola: Ube Jam
+    []Ryland: Cash, Shoes, Game
+
+Work
+[]Learn Backend
+[]review Beta
+[]Plan Army Opertion February
+
+Finance
+[]Book Hotel/Plan
+[]Market Plan
+[]AMEX Benefits
+
+
+
