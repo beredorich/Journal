@@ -82,6 +82,11 @@ with open(filePath, 'a') as writer:
     tommorow = today + timedelta(1)
     writer.write((tommorow.strftime("%d %b %y")).upper() + "\n\n")
 
+
+    #Morning Habits
+    writer.write("[]Morning Routine: First Alarm, No Phone, Pushups, Rollouts, Make Bed, Self Care\n\n")
+
+    writer.write("Monthly Goal: \n-Journal everyday\n-Pass tape\n-Improve work focus\n\n")
     for unfinishedTask in unfinished:
         writer.write(unfinishedTask)
     

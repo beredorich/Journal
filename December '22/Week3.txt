@@ -117,12 +117,14 @@ Plan
 -----------------------------------------
 21 DEC 22
 
-[]First Alarm
-[]Pushups
-[]Rollouts
-[]Make Bed
-[]Skin Routine
-[]No Phone
+QOTD: Definiteness of purpose is the starting point of all acheivement.
+
+[-]First Alarm
+[-]Pushups
+[-]Rollouts
+[-]Make Bed
+[x]Skin Routine
+[-]No Phone
 
 Goals
 []Career: Engineer and LT
@@ -138,15 +140,18 @@ Goals
     []Lola: Ube Jam
     []Ryland: Cash, Shoes, Game
 
+[]call crunch
+[x]call apartment
+[x]research car wrap
+
 Work
 []Learn Backend
-[]review Beta
 []Plan Army Opertion February
 
+[]Wrap gifts
+
 Finance
-[]Book Hotel/Plan
-[]Market Plan
-[]AMEX Benefits
-
-
+[]Book Hotel/Plan: Chicago, book after xmas
+[]Market Plan: develop
+[]AMEX Benefits: research
 
