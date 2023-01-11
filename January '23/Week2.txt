@@ -61,24 +61,66 @@ Monthly Goal:
 -Pass tape
 -Improve work focus
 
-[]Daily Goal: Complete Day Tasks
+[x]Daily Goal: Complete Day Tasks
 
 [x]Work Habits: Typing, Daily Review, QOTD, Wordle, Email
 
 Career
 [x]Learn Databases - Ongoing
 [x]Fix Bugs - Ongoing
-[]Finish Database tutorial on MAC
+[x]Finish Database tutorial on MAC
 
 Finance
-[]Setup Toyota Payments
-[]MarketWatch
+[x]Setup Toyota Payments
+[x]MarketWatch
 
 Health
-[]Cardio
-[]Legs
+[x]Cardio
+[x]Legs
 [x]MyFitnessPal
 
 Organization
-[]clean fridge
-[]clean freezer
+[x]clean fridge
+[x]clean freezer
+
+Review
+Good: work focus(coding), 
+
+
+
+COMPLETED TASKS: 12
+TASKS TO COMPLETE: 0
+-----------------------------------------
+11 JAN 23
+
+[]Morning Routine: First Alarm, No Phone, Pushups, Rollouts, Make Bed, Self Care
+
+Monthly Goal: 
+-Journal everyday
+-Pass tape
+-Improve work focus
+
+Weekly Goal: Don't cheat on diet, finish daily tasks
+
+Daily Goal: Focus better
+
+Career
+[]fix ADO Bugs
+[]improve front end-website
+[]clean Army Email
+
+Finnace
+[]call collection
+[]call Toyota Dealership
+
+Health
+[]Cardio
+[]bench
+[]MyFitnessPal
+
+Organization
+[]fold Clothes
+[]empty Dishwasher
+[]load dishwasher
+
+

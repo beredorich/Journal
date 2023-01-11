@@ -106,3 +106,70 @@ TASKS TO COMPLETE: 14
 []Finalize tasklist
 []clean fridge
 []clean freezer
+
+COMPLETED TASKS: 0
+TASKS TO COMPLETE: 20
+-----------------------------------------
+11 JAN 23
+
+[]Morning Routine: First Alarm, No Phone, Pushups, Rollouts, Make Bed, Self Care
+
+Monthly Goal: 
+-Journal everyday
+-Pass tape
+-Improve work focus
+
+[]First Alarm 
+[]No Phone
+[]Pushups
+[]Rollouts
+[]Make Bed
+[]Self Care
+[]Work Habits[]Finalize Goals
+[]Weekly and Monthly Goals
+[]Keyboard shortcuts
+[]Code Reminder Emails
+[]Learn Databases
+[]Setup Toyota Payments
+[]Code Finance Email Reminders
+[]MarketWatch
+[]Cardio
+[]Arms
+[]Clean Bathroom
+[]Finalize tasklist
+[]clean fridge
+[]clean freezer
+
+COMPLETED TASKS: 0
+TASKS TO COMPLETE: 21
+-----------------------------------------
+11 JAN 23
+
+[]Morning Routine: First Alarm, No Phone, Pushups, Rollouts, Make Bed, Self Care
+
+Monthly Goal: 
+-Journal everyday
+-Pass tape
+-Improve work focus
+
+[]Morning Routine: First Alarm, No Phone, Pushups, Rollouts, Make Bed, Self Care
+[]First Alarm 
+[]No Phone
+[]Pushups
+[]Rollouts
+[]Make Bed
+[]Self Care
+[]Work Habits[]Finalize Goals
+[]Weekly and Monthly Goals
+[]Keyboard shortcuts
+[]Code Reminder Emails
+[]Learn Databases
+[]Setup Toyota Payments
+[]Code Finance Email Reminders
+[]MarketWatch
+[]Cardio
+[]Arms
+[]Clean Bathroom
+[]Finalize tasklist
+[]clean fridge
+[]clean freezer
